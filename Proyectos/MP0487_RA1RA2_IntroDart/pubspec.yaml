@@ -1,0 +1,6 @@
+name: intro_dart
+description: Dart exercises for MP0487 RA1/RA2
+publish_to: "none"
+
+environment:
+  sdk: ^3.0.0
