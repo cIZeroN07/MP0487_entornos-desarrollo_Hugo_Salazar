@@ -1,3 +1,6 @@
 # Archivos generados por Dart
 .dart_tool/
 build/
+
+# Proyecto clonado del profesor (tiene su propio repositorio)
+MP0487_RA3RA4_ProjectDart_Shop/
